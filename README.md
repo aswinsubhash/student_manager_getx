@@ -24,7 +24,7 @@ age, class, batch no, mobile number etc
 ## Table of contenst
 
 - [Installation](#installation)
-- [Screeshots](#screenshots)
+- [Screenshots](#screenshots)
 - [Packages and Credits](#packages-and-credits)
 - [License](#license)
 
